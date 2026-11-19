@@ -1,0 +1,9 @@
+# Java Development Kit
+oracleJdk-27/
+oraclejdk-27/
+
+# Compiled Java files
+*.class
+
+# VS Code settings
+.vscode/
